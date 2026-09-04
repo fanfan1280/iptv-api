@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-04 07:50:38,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+2026-09-04 22:04:19,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -9,6 +9,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+云南卫视,http://101.66.195.43:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
@@ -17,8 +18,8 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -41,6 +42,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
+金鹰卡通,http://101.66.195.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
