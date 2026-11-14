@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-14 01:33:49,http://45.192.97.170:8880/play/441.m3u8
+2026-11-14 10:01:30,http://45.192.97.170:8880/play/441.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://45.192.97.170:8880/play/441.m3u8
@@ -14,12 +14,12 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
-浙江卫视,http://45.192.97.170:8880/play/489.m3u8
 浙江卫视,http://45.192.97.170:8880/play/542.m3u8
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
+浙江卫视,http://45.192.97.170:8880/play/489.m3u8
 湖南卫视,http://45.192.97.170:8880/play/476.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/509.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://45.192.97.170:8880/play/513.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
 贵州卫视,http://45.192.97.170:8880/play/518.m3u8
@@ -55,7 +55,6 @@ IPTV经典电影,http://45.192.97.170:8880/play/2649.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjty5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
@@ -72,8 +71,8 @@ IPTV经典电影,http://45.192.97.170:8880/play/2649.m3u8
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
